@@ -1,4 +1,7 @@
 
+
+### AOP Aspect Oriented Programming
+
 - Programming technique based on concept of an Aspect
 - Aspect encapsulates cross-cutting logic
 
@@ -8,6 +11,7 @@
 
 ###### Aspects
 - Aspect can be reused at multiple locations
+- 
 - Same aspect/class ... applied based on configuration
 
 ###### AOP Solution
